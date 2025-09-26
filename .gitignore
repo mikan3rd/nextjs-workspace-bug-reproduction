@@ -1,0 +1,19 @@
+node_modules
+/docker-compose.override.yml
+
+# idea
+.idea
+
+# Visual Studio Config Directory
+.vscode
+
+# misc
+.DS_Store
+*.pem
+
+*storybook.log
+storybook-static
+
+# Jest test results
+test-results.json
+test-results-*.json
